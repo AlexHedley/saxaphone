@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-[View Site](https://alexhedley.github.io/Saxophone/)
+[![Deploy static content to Pages](https://github.com/AlexHedley/saxophone/actions/workflows/static.yml/badge.svg)](https://github.com/AlexHedley/saxophone/actions/workflows/static.yml)
+
+[View Site](https://alexhedley.github.io/saxophone/)
 
 ## Docs
 
